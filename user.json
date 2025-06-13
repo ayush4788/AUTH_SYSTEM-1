@@ -1,15 +1,18 @@
 {
-    "admin": [
-        {
-            "username": "ayush",
-            "password": "$2y$12$eG9dkqWxNAXl/EgGUrgE0eqKVTXm3C2vPKHYtpq4zLozkRtWhcZqK",
-            "subscription": "aimkillapk",
-            "expiry": "2028-09-15",
-            "device_id": ""
-        },
-        {
-            "username": "Adi",
-            "password": "$2y$12$jqt2.URgAnVEsBrXmGWhj.vU43BDvSjxuQYKJihrJnBc\/r1nf8ywS",
-            "subscription": "aimkillapk",
-            "expiry": "2028-03-03",
-            "device_id": ""
+  "admin": [
+    {
+      "username": "ayush",
+      "password": "$2y$12$eG9dkqWxNAXI/EgGUrgE0eqK...",
+      "subscription": "aimkillapk",
+      "expiry": "2028-09-15",
+      "device_id": ""
+    },
+    {
+      "username": "Adi",
+      "password": "$2y$12$sjt2.URgAnVEsBrXmGWhj.v...",
+      "subscription": "aimkillapk",
+      "expiry": "2028-03-03",
+      "device_id": ""
+    }
+  ]
+}
