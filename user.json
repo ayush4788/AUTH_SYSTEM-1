@@ -1,9 +1,15 @@
 {
-  "users": [
-    {
-      "username": "1",
-      "password": "1"
-       "subscription_end": "2026-07-01T23:59:59Z"
-    }
-  ]
-}
+    "admin": [
+        {
+            "username": "ayush",
+            "password": "$2y$12$eG9dkqWxNAXl/EgGUrgE0eqKVTXm3C2vPKHYtpq4zLozkRtWhcZqK",
+            "subscription": "aimkillapk",
+            "expiry": "2028-09-15",
+            "device_id": ""
+        },
+        {
+            "username": "Adi",
+            "password": "$2y$12$jqt2.URgAnVEsBrXmGWhj.vU43BDvSjxuQYKJihrJnBc\/r1nf8ywS",
+            "subscription": "aimkillapk",
+            "expiry": "2028-03-03",
+            "device_id": ""
